@@ -119,6 +119,10 @@ export const Qtd = styled.div`
     cursor: pointer;
     background-color: transparent;
     color: ${(props) => props.theme.purple};
+
+    :hover {
+      color: ${(props) => props.theme['purple-dark']};
+    }
   }
 
   p {
@@ -129,14 +133,25 @@ export const Qtd = styled.div`
   }
 `
 
-export const IconButton = styled.div`
+export const IconButton = styled.button`
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
+  border: 0;
   background-color: ${(props) => props.theme['purple-dark']};
   color: ${(props) => props.theme.white};
   border-radius: 6px;
   padding: 8px;
   width: 2.375rem;
   height: 2.375rem;
+
+  &:not(:disabled)::hover {
+    background-color: ${(props) => props.theme.purple};
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
 `

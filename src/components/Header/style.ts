@@ -30,10 +30,32 @@ export const Location = styled.div`
   }
 `
 
-export const Cart = styled.div`
+export const Cart = styled.button`
   display: flex;
+  border: 0;
+  cursor: pointer;
   padding: 8px;
   border-radius: 6px;
   color: ${(props) => props.theme['yellow-dark']};
   background-color: ${(props) => props.theme['yellow-light']};
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+`
+
+export const Counter = styled.div`
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: ${(props) => props.theme['yellow-dark']};
+  border-radius: 9999px;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-top: -1rem;
+  margin-left: 1.2rem;
+  color: ${(props) => props.theme.white};
+  font-weight: 700;
+  font-size: 0.75rem;
 `

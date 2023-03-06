@@ -3,84 +3,98 @@
     "varieties": "TRADICIONAL",
     "title": "Expresso Tradicional",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Expresso Americano",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Expresso Cremoso",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Expresso Gelado",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Café com Leite",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Latte",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Capuccino",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Macchiato",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Mocaccino",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Chocolate Quente",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Cubano",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Havaiano",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Árabe",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   },
   {
     "varieties": "TRADICIONAL",
-    "title": "Expresso Tradicional",
+    "title": "Irlandês",
     "description": " O tradicional café feito com água quente e grãos moídos",
-    "price": 9.90
+    "price": 9.90,
+    "qtd": 0
   }
 ]
